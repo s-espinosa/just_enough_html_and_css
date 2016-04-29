@@ -1,21 +1,27 @@
 # Warmup (5 mins)
 * Clone repo
-* index.txt
+* copy.txt
 * One minute - what are the pieces?
 * One minute - discuss with neighbor.
 * List on board.
 
 # HTML (10 mins)
-* index.html (in atom)
 * Way to organize/describe content.
 * Uses tags (markup printouts or on screen).
-    * Headers (h1)
+    * Headers (h1, h2)
+    * Navigation (nav)
+    * Articles (article)
     * Paragraphs (p)
+    * Links (a)
     * Lists (ul/ol li)
+    * Span/Div
+* Take a look at copy, paste it into a new document, and try to put some tags on it.
+    * Example
+    * Now you do it
 * Standard base html page
     * html
     * head
-    * title
+        * title
     * body
 * my_index.html (in atom - code along with prepared content)
     * Add html tags.
@@ -25,23 +31,24 @@
 
 
 # Styling (10 mins)
-* styled.html (in browser)
+* Design.png (in browser)
 * One minute - describe the page.
 * One minute - discuss with neighbor.
 * List on board.
 
 # CSS (15 mins)
-* styled.html (in atom - code along from repo)
-* What haven't we seen before?
-* base.css (in atom)
-* What do you notice? Does anything look familiar?
+* normalize.css (in atom - code along from repo)
+* What have we seen before? What haven't we seen? Does anything look familiar?
     * h1
+    * a
+    * nav
     * p
 * Way to describe styles for html elements.
     * color
     * background-color
     * text-align
     * font-family
+* base.scss (in atom)
 * Finding a specific tag (class/id code along)
 
 
@@ -61,5 +68,7 @@
     * to watch a file: sass input.scss output.css
 * Saving colors as variables
 * Nesting css
+
+
 
 # Questions (5 mins)
