@@ -1,0 +1,27 @@
+$special_red: #990000;
+
+
+
+@mixin background-spec {
+  background-color: #666666  ;
+  max-width: 60%;
+}
+
+p {
+  background-color: $special_red;
+}
+
+
+body {
+  @include background-spec;
+  background-color: $special_red;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+
+  :hover {
+    background-color: green;
+  }
+}

@@ -1,0 +1,15 @@
+p {
+  background-color: #990000; }
+
+body {
+  background-color: #666666;
+  max-width: 60%;
+  background-color: #990000; }
+
+a {
+  text-decoration: none;
+  color: white; }
+  a :hover {
+    background-color: green; }
+
+/*# sourceMappingURL=main.css.map */

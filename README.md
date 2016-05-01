@@ -72,3 +72,6 @@
 
 
 # Questions (5 mins)
+
+# Resources
+* [Atom Setup](https://www.youtube.com/watch?v=hPC6keUUiTA)
