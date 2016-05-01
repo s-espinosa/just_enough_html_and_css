@@ -74,4 +74,7 @@
 # Questions (5 mins)
 
 # Resources
-* [Atom Setup](https://www.youtube.com/watch?v=hPC6keUUiTA)
+* [Adobe Color](https://color.adobe.com/explore/newest/)
+* [Coolers](https://coolors.co/app/373f51-008dd5-dfbbb1-f56476-e43f6f)
+* [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12)
+* [Atom Setup](https://www.youtube.com/watch?v=hPC6keUUiTA): Skip to around 11:30 to see setup options for Pigments Atom plugin.
